@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @VINITH709
 - 👀 I’m interested in latest technologies.
 - 🌱 I’m currently learning Infomation technology.
-- 💞️ I’m looking to collaborate on ...
 - 📫  reach me at vinithjmet2023@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: vinith
+  
 
 <!---
 VINITH709/VINITH709 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
