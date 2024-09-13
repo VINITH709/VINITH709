@@ -2,7 +2,7 @@
 - 👀 I’m interested in latest technologies.
 - 🌱 I’m currently learning Infomation technology.
 - 📫  reach me at vinithjmet2023@gmail.com
-- 😄 Pronouns: vinith
+- 😄 Pronouns: he/him
   
 
 <!---
